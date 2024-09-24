@@ -1,0 +1,91 @@
+h1{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    
+
+}
+.bg{
+    background-image: url('https://variety.com/wp-content/uploads/2020/05/netflix-logo.png?w=1000&h=667&crop=1');  
+    
+}
+
+
+.three{
+    color:white;
+    text-align: right;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px white;
+    text-transform:capitalize;
+}
+.one{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px white;
+    text-transform:capitalize;
+}
+.two{
+    color:white;
+    text-align: left;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px white;
+    text-transform:uppercase;
+}
+.bg1{
+    
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+.five{
+    
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid blue;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+    background-color: aliceblue;
+    
+    height:200px;
+    
+}
+.six{
+    color:blue;
+    font-size: 20px;
+}
+.seven{
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid blue;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    height:250px;
+}
+.eight{
+    color:blue;
+    font-size: 20px;
+}
+.nine{
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid blue;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    height:250px;
+}
+.ten{
+    color:blue;
+    font-size: 20px;
+}
+main{
+    background-image: linear-gradient(to right,lightgreen,gray);
+}
+
